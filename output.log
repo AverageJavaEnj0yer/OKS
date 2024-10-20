@@ -88,3 +88,5 @@
 2024-10-07 15:55:37 {threading.current_thread().ident} Empty token readed and re-adress to next station
 2024-10-07 15:55:39 {threading.current_thread().ident} Empty token readed and re-adress to next station
 2024-10-07 15:55:40 {threading.current_thread().ident} Empty token readed and re-adress to next station
+2024-10-07 16:23:02 Неожиданная ошибка: list index out of range
+2024-10-08 18:04:37 Неожиданная ошибка: list index out of range
